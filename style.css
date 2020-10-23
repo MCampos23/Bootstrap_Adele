@@ -1,0 +1,45 @@
+#logo{
+    text-shadow: 0px 0px 8px rgb(209, 209, 209);
+}
+.jumbotron{
+    background-image: url(https://cdn.smehost.net/adelecom-uscolumbiaprod/adele/wp-content/uploads/2017/07/18115246/waespi_wembley290617_01.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    height: 400px;
+}
+#h3album{
+    text-align: center;
+    margin: 55px;
+}
+.albums{
+    width: 80%;
+    margin: 0 auto;
+}
+.container{
+    width: 50%;
+}
+.card{
+    margin-top: 20px;
+}
+#h3gallery{
+    text-align: center;
+    margin-top:  55px;
+    padding-top: 45px;
+    padding-bottom: 25px;
+    color: white;
+}
+#gallery {
+    margin-top: 25px;
+    background-color: #444444;
+  }
+@media(max-width:990px){
+
+}
+
+@media (max-width:768px){
+    .container{
+        width: 60%;
+    }
+  }
